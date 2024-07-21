@@ -1,0 +1,188 @@
+.header{
+    background-image: url(./images/photo_2022-06-23_21-45-26);
+    width: 100%;
+height: 1154px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.gradient3{
+    background-image:linear-gradient(129.59deg, #000000 8.49%, rgba(3, 3, 3, 0) 77.17%);
+ width: 100%;
+ height: 1154px;
+}
+
+.header2{
+    background-image: linear-gradient(to top,rgb(18, 18, 18),#272727);
+    opacity: 80%;
+    width: 100%;
+height: 74px;
+position: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.menu{
+    margin-left: 100px;
+    gap: 40px;
+}
+.el:hover{
+    font-size: 36px;
+    transition: font-size ease-in-out .5s;
+    will-change: auto;
+    color: #C59A6D;
+}
+.el{
+    font-family: "Inter" , sans-serif;
+font-size: 24px;
+font-weight: 200;
+line-height: 29.05px;
+text-align: left;
+color: #FFFFFF;
+-webkit-transition: all .5s ease-in-out;
+-moz-transition: all .5s ease-in-out;
+transition: all .5s ease-in-out;  
+}
+
+.sec1-text h1{
+
+    font-family: "Inter", sans-serif;
+    font-size:48px;
+    font-weight:200;
+    color: #FFFFFF;   
+}
+.wiki{
+    font-family: "Inter", sans-serif;
+    font-size:21px;
+    font-weight:200;
+    color: #FFFFFF;
+    margin-top: 15px;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;  
+}
+.wiki:hover{
+    font-family: "Inter", sans-serif;
+    font-size:22px;
+    font-weight:300;
+    color: #C59A6D;
+    transition: font-size ease-in-out .5s;
+    will-change: auto;
+}
+.sec1-wrap{
+    margin-left: 122px;
+    margin-top: 125px;
+    align-items: center;
+}
+
+.button{
+    margin-left: 135px;
+    margin-top: 65px;
+    background-color:#B47B48;
+    border-radius: 25px;
+    width: 207px;
+    height: 35px;
+    padding: 22px 52px 25px 42px;
+    text-align: center;
+}
+.sec1-text{
+    padding: 5px 15px 5px 15px;
+    background-image: linear-gradient(to top,rgb(18, 18, 18),#202023);
+    background-color: #202023;
+    border-radius: 20px;
+    width: 600px;
+    height: 450px;
+    border: solid white;
+}
+.btn:hover{
+    font-size: 34px;
+    transition: font-size ease-in-out .5s;
+    will-change: auto;   
+}
+.btn2:hover{
+    font-size: 24px;
+    transition: font-size ease-in-out .5s;
+    will-change: auto;   
+}
+.brn2:hover{
+    font-size: 34px;
+    transition: font-size ease-in-out .5s;
+    will-change: auto;   
+}
+.btn{
+    font-family: "Inter" , sans-serif;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;     
+}
+.flag{
+    margin-top: 40px;
+    width: 400px;
+    height: 225px;
+    background-image: linear-gradient(to right,rgb(18, 18, 18),#272727);
+}
+.cookie{
+    align-self: right;
+}
+.btn2{
+    font-family: "Inter" , sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 19.36px;
+    padding: 10px 20px 10px 20px;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out; 
+}
+.textcoockie{
+    margin-top: 5px;
+    margin-left: 20px;
+    font-family: "Inter" , sans-serif;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 29.05px;
+    text-align: left;
+    color: #FFFFFF;    
+}
+.t8{
+    font-family: "Inter" , sans-serif;
+    margin-top: 20px;
+    margin-left: 5px;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: center;
+text-align: left;
+color: #FFFFFF;   
+}
+.button3{
+    margin-top: 20px;
+width: 79px;
+height: 24px;
+background-color:#C85312;
+text-align: center;  
+padding: 2px 3px 3px 2px;
+margin-left: 5px; 
+}
+.me2{
+    gap: 230px;
+    margin-left: 350px;
+}
+.el400{
+    margin-left: 10px;
+}
+.flag2{
+    margin-top: 50px;
+    width: 370px;
+    height: 225px;
+    background-image: linear-gradient(to right,#ac8216,#ebac0f);
+}
+.card-set{
+    width: 1350px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
