@@ -6,6 +6,18 @@
 @import "./header";
 @import "./main";
 @import "./footer";
+%background{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+%transition{
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;     
+}
+$primary: #C59A6D;
+$second:#FFFFFF;
 body{
     background: #202023;    
 }
